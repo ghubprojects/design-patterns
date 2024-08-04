@@ -3,13 +3,13 @@
 > Observer is a behavioral design pattern that lets you define a subscription mechanism to notify multiple objects about any events that happen to the object they’re observing.
 
 <p align="center">
-  <img width="500" src="https://refactoring.guru/images/patterns/content/observer/observer.png" />
+  <img width="640" src="https://refactoring.guru/images/patterns/content/observer/observer.png" />
 </p>
 
 ## Structure
 
 <p align="center">
-  <img width="500" src="https://refactoring.guru/images/patterns/diagrams/observer/structure.png" />
+  <img width="610" src="https://refactoring.guru/images/patterns/diagrams/observer/structure.png" />
 </p>
 
 ## Applicability
