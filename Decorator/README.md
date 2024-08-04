@@ -3,7 +3,13 @@
 > Decorator is a structural design pattern that lets you attach new behaviors to objects by placing these objects inside special wrapper objects that contain the behaviors.
 
 <p align="center">
-  <img width="500" src="https://refactoring.guru/images/patterns/content/decorator/decorator.png?id=710c66670c7123e0928d3b3758aea79e" />
+  <img width="500" src="https://refactoring.guru/images/patterns/content/decorator/decorator.png" />
+</p>
+
+## Structure
+
+<p align="center">
+  <img width="500" src="https://refactoring.guru/images/patterns/diagrams/decorator/structure.png" />
 </p>
 
 ## Applicability
