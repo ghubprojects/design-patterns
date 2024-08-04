@@ -1,6 +1,6 @@
 ﻿namespace Decorator;
 
-public interface IDataHandler {
+public interface IFileDataSource {
     void WriteData(string data);
     string ReadData();
 }

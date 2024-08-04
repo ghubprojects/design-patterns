@@ -1,6 +1,6 @@
 ﻿namespace Decorator;
 
-public class FileDataSource(string filename) : IDataHandler {
+public class FileDataSource(string filename) : IFileDataSource {
     private readonly string _filename = filename;
 
     public void WriteData(string data) {
